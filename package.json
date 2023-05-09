@@ -1,0 +1,8 @@
+{
+  "name": "com.mustachebracket.yaiks",
+  "version": "1.0.1",
+  "unity": "2021.2",
+  "displayName": "YAIKS",
+  "description": "Yet Another Inverse Kinematiks Solver.",
+  "type": "library"
+}
