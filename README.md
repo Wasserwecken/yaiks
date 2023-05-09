@@ -1,1 +1,1 @@
-# YAIKS - Yeat another inverse kinematics solver
+# YAIKS - Yet another inverse kinematics solver
